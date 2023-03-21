@@ -1,0 +1,42 @@
+body {
+    color: black;
+    background-color: rgb(190, 230, 255);
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+}
+
+button {
+    color: lightgreen;
+    background-color: black;
+}
+
+img { /*This is for the images.*/
+    width: 850px;
+}
+
+h1 {
+    color: darkmagenta;
+}
+
+#chef {
+    font-weight: bold;
+}
+
+.beef { /*This is for the body of the Beef Au Jus recipe.*/
+    color: black;
+    background-color: rgb(253, 235, 235);
+}
+
+.lasagna { /*This is for the body of the Lasagna recipe.*/
+    color: #000088;
+    background-color: rgb(250, 230, 230);
+}
+
+#tiramisu { /*This is for the body of the Tiramisu recipe.*/
+    color: rgb(218, 212, 212);
+    background-color: rgba(163, 90, 21, 0.945);
+}
+
+#desc {
+    color: rgb(63, 56, 47);
+}
